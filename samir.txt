@@ -1,0 +1,15 @@
+Q: Which button makes alphabets/letters in uppercase and lowercase and numbers to symbols?
+A: Shift
+
+Q: When a computer is switched on, the booting process performs__?
+A: Power on self test
+
+Q: What is the software frequently utilized by end users called (like Word, PowerPoint)?
+A: Application Software
+
+Q: Unit of measurement of the output quality of a printer?
+A: Dot per sq. inch
+
+Q: Switching device of fifth generation computer is__?
+A: VLSI
+

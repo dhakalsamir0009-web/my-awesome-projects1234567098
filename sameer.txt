@@ -1,0 +1,6 @@
+Q: What does DMA stand for?
+A: Direct Memory Access
+
+Q: BCD is __?
+A: Binary Coded Decimal
+
